@@ -1,0 +1,4 @@
+tensorflow=1.7.0
+numpy
+scipy
+python_speech_features

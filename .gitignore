@@ -1,0 +1,10 @@
+# dir to ignored
+__pycache__/
+models/
+
+# temp files
+*~
+*#
+
+# compile files
+*.pyc
